@@ -12,7 +12,6 @@
 **Languages:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![Zig](https://img.shields.io/badge/Zig-ec915c?logo=zig&logoColor=black) 
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
@@ -38,13 +37,6 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=JSON-web-tokens&logoColor=white) 
 ![Clerk](https://img.shields.io/badge/Clerk-5232FF?logo=clerk&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketmahajan04&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketmahajan04&layout=compact&theme=radical)
-
----
 
 ### 🔗 Connect with Me
 
